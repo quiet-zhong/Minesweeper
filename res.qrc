@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resource/boom.wav</file>
+        <file>resource/clicked.wav</file>
+        <file>resource/flag.png</file>
+        <file>resource/img_mine_0.png</file>
+        <file>resource/img_mine_1.png</file>
+        <file>resource/img_mine_2.png</file>
+        <file>resource/img_mine_3.png</file>
+        <file>resource/img_mine_4.png</file>
+        <file>resource/img_mine_5.png</file>
+        <file>resource/img_mine_6.png</file>
+        <file>resource/img_mine_7.png</file>
+        <file>resource/img_mine_8.png</file>
+        <file>resource/img_mine_9.png</file>
+        <file>resource/mine.png</file>
+        <file>resource/music1.wav</file>
+        <file>resource/music2.wav</file>
+        <file>resource/normal.png</file>
+        <file>resource/start.png</file>
+    </qresource>
+</RCC>
